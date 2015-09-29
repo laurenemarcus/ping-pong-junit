@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PingPongTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2015-09-29T23:17:39" hostname="epicodus-111.local" time="0.002">
+  <properties/>
+  <testcase name="pingPong_countsFromOneToAGivenNumber_allNumbersListed" classname="PingPongTest" time="0.001"/>
+  <testcase name="pingPong_replacesNumbersDivisibleByFifteenWithPingPong_pingPong" classname="PingPongTest" time="0.0"/>
+  <testcase name="pingPong_replacesNumbersDivisibleByFiveWithPong_pong" classname="PingPongTest" time="0.0"/>
+  <testcase name="pingPong_replacesNumbersDivisibleByThreeWithPing_ping" classname="PingPongTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
